@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello World 👋
 
 Welcome to my little bubble 🫧 on GitHub, where I'll be sharing all sorts of projects that I am pursuing.
 
