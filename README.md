@@ -2,7 +2,9 @@
 
 Welcome to my little bubble 🫧 on GitHub, where I'll be sharing all sorts of projects that I am pursuing.
 
-🌱 I’m currently working on 100 Days of SwiftUI from hackingwithswift.com and Machine Learning Specialization by Andrew Ng
+🌱 I’m currently working on
+- [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui)
+- [Machine Learning Specialization by Andrew Ng](https://www.coursera.org/specializations/machine-learning-introduction)
 
 <!--
 **GoodMorningA1i/GoodMorningA1i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
