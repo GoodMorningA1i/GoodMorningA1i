@@ -2,7 +2,7 @@
 
 Welcome to my little bubble 🫧 on GitHub, where I'll be sharing all sorts of projects that I am pursuing.
 
-🌱 I’m currently working on
+🌱 I’m currently taking the following courses:
 - [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui)
 - [Machine Learning Specialization by Andrew Ng](https://www.coursera.org/specializations/machine-learning-introduction)
 
