@@ -2,6 +2,9 @@
 
 Welcome to my little bubble 🫧 on GitHub, where I'll be sharing all sorts of projects that I am pursuing.
 
+My name is Ali and I am an iOS Developer at RBC, Royal Bank of Canada.\
+I am also a computer science graduate from the University of Toronto.
+
 🌱 I’m currently taking the following courses:
 - [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui)
 - [Machine Learning Specialization by Andrew Ng](https://www.coursera.org/specializations/machine-learning-introduction)
@@ -19,4 +22,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+Some more ideas:
+- With this experience in fintech and haven taken courses like deep learning, I want to take a deeper dive 🌊 into quant trading, cryptocurrency, or other areas where I can levearge generative AI.
+- [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
+
 -->
