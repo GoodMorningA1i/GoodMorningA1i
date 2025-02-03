@@ -2,8 +2,8 @@
 
 Welcome to my little bubble 🫧 on GitHub, where I'll be sharing all sorts of projects.
 
-My name is Ali and I am an iOS Developer at RBC, Royal Bank of Canada.\
-I am also a computer science graduate from the University of Toronto.
+My name is Ali and I am an iOS Developer at RBC, the Royal Bank of Canada.\
+I am also a Computer Science Graduate from the University of Toronto.
 
 🌱 I’m currently taking the following course: [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui)
 
