@@ -1,6 +1,6 @@
 ## Hello World 👋
 
-Welcome to my little bubble 🫧 on GitHub, where I'll be sharing all sorts of projects that I am pursuing.
+Welcome to my little bubble 🫧 on GitHub, where I'll be sharing all sorts of projects.
 
 My name is Ali and I am an iOS Developer at RBC, Royal Bank of Canada.\
 I am also a computer science graduate from the University of Toronto.
@@ -26,5 +26,6 @@ Some more ideas:
 
 - [Machine Learning Specialization by Andrew Ng](https://www.coursera.org/specializations/machine-learning-introduction)
 - [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
+- Gen AI bootcamp
 
 -->
