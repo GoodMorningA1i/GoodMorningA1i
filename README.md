@@ -7,6 +7,12 @@ I am also a Computer Science Graduate from the University of Toronto.
 
 🌱 I’m currently focusing on iOS and Deep Learning.
 
+🔭 I’m currently working on 
+* 100 Days of SwiftUI - Hacking With Swift
+* Practical Deep Learning for Coders - Jeremy Howard
+* Learning How To Learn - Dr. Barbara Oakley & Dr. Terrence Sejnowski
+* 1 Week Preparation Kit - HackerRank
+
 <!--
 **GoodMorningA1i/GoodMorningA1i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
