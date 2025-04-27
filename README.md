@@ -5,9 +5,9 @@ Welcome to my little bubble 🫧 on GitHub, where I'll be sharing all sorts of p
 My name is Ali (a-Lee) and I am an iOS Developer at RBC, the Royal Bank of Canada.\
 I am also a Computer Science Graduate from the University of Toronto.
 
-🌱 I’m currently focusing on iOS and Deep Learning.
+🌱 I’m deepening my knowledge in iOS and Deep Learning.
 
-🔭 I’m currently working on 
+🔭 I’m working on 
 * 100 Days of SwiftUI - Hacking With Swift
 * Practical Deep Learning for Coders - Jeremy Howard
 * Learning How To Learn - Dr. Barbara Oakley & Dr. Terrence Sejnowski
