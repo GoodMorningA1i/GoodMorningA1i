@@ -11,7 +11,6 @@ I am also a Computer Science Graduate from the University of Toronto.
 * 100 Days of SwiftUI - Hacking With Swift
 * Practical Deep Learning for Coders - Jeremy Howard
 * Learning How To Learn - Dr. Barbara Oakley & Dr. Terrence Sejnowski
-* 1 Week Preparation Kit - HackerRank
 
 📚 I'm reading 
 * A Mind For Numbers
