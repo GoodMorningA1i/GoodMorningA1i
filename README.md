@@ -13,7 +13,6 @@ I am also a Computer Science Graduate from the University of Toronto.
 * Learning How To Learn - Dr. Barbara Oakley & Dr. Terrence Sejnowski
 
 📚 I'm reading 
-* A Mind For Numbers
 * Million Dollar Weekend
 * 12 Weeks To A Shaper You
 * Alex Xu's System Design Interview
