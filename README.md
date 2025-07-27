@@ -8,16 +8,16 @@ I am also a Computer Science Graduate from the University of Toronto.
 🌱 I’m deepening my knowledge in iOS and Deep Learning.
 
 🔭 I’m working on 
+* Leetcode Pareto Problem Set
 * 100 Days of SwiftUI - Hacking With Swift
 
 📚 I'm reading 
-* Beyond Cracking The Coding Interview
+* 50 proven email scripts - Ramit Sethi
+* Beyond Cracking The Coding Interview - Mike Mroczka, Nil Mamano, Gayle Laakmann McDowell, Aline Lerner (pst pst, its a sequel!)
 
 🪣 Bucket List
 * Learning How To Learn - Dr. Barbara Oakley & Dr. Terrence Sejnowski
-* Practical Deep Learning for Coders - Jeremy Howard
-* 12 Weeks To A Shaper You
-* Alex Xu's System Design Interview
+* 12 Weeks To A Shaper You - Doctor Sanjay Gupta
 
 <!--
 **GoodMorningA1i/GoodMorningA1i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
+- 📧 I'm subscribed to the following emails
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
