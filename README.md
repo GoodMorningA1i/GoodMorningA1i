@@ -15,6 +15,10 @@ I am also a Computer Science Graduate from the University of Toronto.
 * 50 proven email scripts - Ramit Sethi
 * Beyond Cracking The Coding Interview - Mike Mroczka, Nil Mamano, Gayle Laakmann McDowell, Aline Lerner (pst pst, its a sequel!)
 
+📧 I'm subscribed to the following emails
+* TLDR
+* ByteByteGo
+
 🪣 Bucket List
 * Learning How To Learn - Dr. Barbara Oakley & Dr. Terrence Sejnowski
 * 12 Weeks To A Shaper You - Doctor Sanjay Gupta
