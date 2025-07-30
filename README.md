@@ -18,6 +18,7 @@ I am also a Computer Science Graduate from the University of Toronto.
 📧 I'm subscribed to the following emails
 * TLDR
 * ByteByteGo
+* A Life Engineered
 
 🪣 Bucket List
 * Learning How To Learn - Dr. Barbara Oakley & Dr. Terrence Sejnowski
