@@ -5,6 +5,8 @@ Welcome to my little bubble 🫧 on GitHub, where I'll be sharing all sorts of p
 My name is Ali (a-Lee) and I am an iOS Developer at RBC, the Royal Bank of Canada.\
 I am also a Computer Science Graduate from the University of Toronto.
 
+My LinkedIn: https://www.linkedin.com/in/alisyed7/
+
 🌱 I’m deepening my knowledge in iOS and Deep Learning.
 
 🔭 I’m working on 
