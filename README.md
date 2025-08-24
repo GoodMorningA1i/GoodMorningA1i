@@ -12,6 +12,7 @@ My LinkedIn: https://www.linkedin.com/in/alisyed7/
 🔭 I’m working on 
 * Leetcode Pareto Problem Set
 * 100 Days of SwiftUI - Hacking With Swift
+* A new app for iOS!
 
 📚 I'm reading 
 * Beyond Cracking The Coding Interview - Mike Mroczka, Nil Mamano, Gayle Laakmann McDowell, Aline Lerner (pst pst, its a sequel!)
