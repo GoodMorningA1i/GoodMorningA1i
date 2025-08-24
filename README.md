@@ -14,7 +14,6 @@ My LinkedIn: https://www.linkedin.com/in/alisyed7/
 * 100 Days of SwiftUI - Hacking With Swift
 
 📚 I'm reading 
-* 50 proven email scripts - Ramit Sethi
 * Beyond Cracking The Coding Interview - Mike Mroczka, Nil Mamano, Gayle Laakmann McDowell, Aline Lerner (pst pst, its a sequel!)
 
 📧 I'm subscribed to the following emails
