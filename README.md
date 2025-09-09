@@ -22,10 +22,6 @@ My LinkedIn: https://www.linkedin.com/in/alisyed7/
 * ByteByteGo
 * A Life Engineered
 
-🪣 Bucket List
-* Learning How To Learn - Dr. Barbara Oakley & Dr. Terrence Sejnowski
-* 12 Weeks To A Shaper You - Doctor Sanjay Gupta
-
 <!--
 **GoodMorningA1i/GoodMorningA1i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
