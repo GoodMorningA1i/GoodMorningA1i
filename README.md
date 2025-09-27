@@ -7,7 +7,7 @@ I am also a Computer Science Graduate from the University of Toronto.
 
 My LinkedIn: https://www.linkedin.com/in/alisyed7/
 
-🌱 I’m deepening my knowledge in iOS and Deep Learning.
+🌱 I’m deepening my knowledge in iOS.
 
 🔭 I’m working on 
 * Leetcode, Pareto Problem Set
