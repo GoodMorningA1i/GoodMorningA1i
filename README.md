@@ -2,7 +2,7 @@
 
 Welcome to my little bubble 🫧 on GitHub, where I'll be sharing all sorts of projects.
 
-My name is Ali (a-Lee) and I am an iOS Developer at RBC, the Royal Bank of Canada.\
+My name is Ali (a-Lee) and I am an iOS Engineer at RBC, the Royal Bank of Canada.\
 I am also a Computer Science Graduate from the University of Toronto.
 
 My LinkedIn: https://www.linkedin.com/in/alisyed7/
@@ -10,8 +10,8 @@ My LinkedIn: https://www.linkedin.com/in/alisyed7/
 🌱 I’m deepening my knowledge in iOS.
 
 🔭 I’m working on 
-* Leetcode, Pareto Problem Set
-* 100 Days of SwiftUI, Hacking With Swift
+* Leetcode
+* Hacking With Swift
 
 📚 I'm reading 
 * Beyond Cracking The Coding Interview
